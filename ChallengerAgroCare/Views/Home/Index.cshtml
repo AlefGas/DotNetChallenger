@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Grex AgroCare";
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-4 font-weight-bold">Seja Bem-vindo ao Grex</h1>
+        <p class="lead">Grex: a rede social que conecta você ao mundo.</p>
+    </div>
+</div>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="https://conteudo.imguol.com.br/c/noticias/47/2024/05/17/24mar2023---abertura-da-colheita-da-soja-em-tupacireta-rs-com-o-governador-eduardo-leite-psdb-1715965471048_v2_900x506.jpg.webp" class="card-img-top" alt="News Image 1">
+                <div class="card-body">
+                    <h5 class="card-title">Agro avança sobre quase metade do RS e soja quintuplica em menos de 40 anos…</h5>
+                    <p class="card-text">Em um período de menos de 40 anos, o território dedicado ao agronegócio no Rio Grande do Sul aumentou em 35 mil km². Com a expansão, que reduziu florestas e campos naturais, o agro ocupa hoje quase metade do estado</p>
+                    <a href="https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2024/05/18/aumento-de-area-para-agrupecuaria-rio-grande-do-sul-desde-1985.htm" class="btn btn-primary">Ler mais</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnuiHLZk3brcvSlcxeujH09iJVvVIclj9dQ&s" class="card-img-top" alt="News Image 2">
+                <div class="card-body">
+                    <h5 class="card-title">YANMAR marca presença em dois grandes eventos do setor agro brasileiro</h5>
+                    <p class="card-text">Multinacional japonesa destaca inovação, qualidade e parceria com os agricultores na Rondônia Rural Show – Internacional e AgroBrasília 2024..</p>
+                    <a href="https://g1.globo.com/sp/ribeirao-preto-franca/especial-publicitario/yanmar/yanmar-brasil/noticia/2024/05/20/yanmar-marca-presenca-em-dois-grandes-eventos-do-setor-agro-brasileiro.ghtml" class="btn btn-primary">Ler mais</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="https://i0.wp.com/souagro.net/wp-content/uploads/2024/05/sala-de-aula_Easy-Resize.com_.jpg?w=1280&ssl=1" class="card-img-top" alt="News Image 3">
+                <div class="card-body">
+                    <h5 class="card-title">Projeto combate desinformação sobre o agro nas escolas</h5>
+                    <p class="card-text"> Integrar o conhecimento científico ao currículo escolar permite que estudantes e professores compreendam o funcionamento da agropecuária e, principalmente, os prepara para enfrentar os desafios e aproveitar as oportunidades do setor.</p>
+                    <a href="https://souagro.net/noticia/2024/05/projeto-combate-desinformacao-sobre-o-agro-nas-escolas/" class="btn btn-primary">Ler mais</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Gerenciamento de Publicações e Comentários</h2>
+
+ 
+    <div class="d-flex justify-content-center">
+        <a asp-area="" asp-controller="Postagem" asp-action="Index" class="btn btn-primary btn-lg">
+            <i class="fas fa-plus"></i> Gerenciar Publicações
+        </a>
+    </div>
+
+  
+    <div class="my-4"></div>
+
+
+    <div class="d-flex justify-content-center">
+        <a asp-area="" asp-controller="Comentario" asp-action="Index" class="btn btn-secondary btn-lg">
+            <i class="fas fa-comments"></i> Gerenciar Comentários
+        </a>
+    </div>
+</div>
+
+<!-- FontAwesome CDN -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

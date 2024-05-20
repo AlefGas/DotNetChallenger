@@ -1,0 +1,17 @@
+﻿@model Comentario
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container mt-5">
+    <h2>Cuidado com o que você vai escrever no comentário!</h2>
+    <form asp-controller="Comentario" asp-action="Editar" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <label>Comentário:</label>
+            <textarea name="TxtComment" asp-for="TxtComment" class="form-control" rows="5"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    </form>
+</div>

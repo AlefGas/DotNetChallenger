@@ -1,0 +1,16 @@
+﻿@model Postagem
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container mt-5">
+        <h2>Tome Cuidado com o que você vai escrever !!</h2>
+        <form asp-controller="Postagem" asp-action="Cadastrar" method="post">
+            <div class="form-group">
+                <label >Digite...</label>
+            <textarea name="TxtPost" asp-for="TxtPost" class="form-control" rows="5"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>

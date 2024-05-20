@@ -1,0 +1,578 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\comentario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\comentario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\postagem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\postagem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\comentario\\deleteconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\comentario\\deleteconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\postagem\\deleteconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\postagem\\deleteconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\comentario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\comentario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\controllers\\postagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\controllers\\postagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\postagem\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\postagem\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Migrations\\20240520224446_TerceiraMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengerAgroCare\\Migrations\\20240520224446_TerceiraMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\models\\postagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\models\\postagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\comentario\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\comentario\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\postagem\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\postagem\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\user\\deleteconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\user\\deleteconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\user\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\user\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Migrations\\20240520214331_NomeDaNovaMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengerAgroCare\\Migrations\\20240520214331_NomeDaNovaMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\user\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\user\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\migrations\\20240519225624_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\migrations\\20240519225624_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\challengeragrocare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\challengeragrocare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haytekinfo\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.140\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|c:\\users\\haytekinfo\\source\\repos\\challengeragrocare\\challengeragrocare\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7363B74E-9EDB-4389-B589-17ABF0898230}|ChallengerAgroCare\\ChallengerAgroCare.csproj|solutionrelative:challengeragrocare\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChallengerAgroCare\\Views\\User\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 275,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240520224446_TerceiraMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Migrations\\20240520224446_TerceiraMigration.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Migrations\\20240520224446_TerceiraMigration.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Migrations\\20240520224446_TerceiraMigration.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Migrations\\20240520224446_TerceiraMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:44:46.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Comentario\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Comentario\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Comentario\\Editar.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Comentario\\Editar.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:22:36.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Comentario\\DeleteConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Comentario\\DeleteConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Comentario\\DeleteConfirmacao.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Comentario\\DeleteConfirmacao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:20:49.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Comentario\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Comentario\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Comentario\\Cadastrar.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Comentario\\Cadastrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:20:18.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComentarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Controllers\\ComentarioController.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Controllers\\ComentarioController.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Controllers\\ComentarioController.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Controllers\\ComentarioController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:17:38.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Comentario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Comentario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Comentario\\Index.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Comentario\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:11:49.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Postagem\\DeleteConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Postagem\\DeleteConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Postagem\\DeleteConfirmacao.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Postagem\\DeleteConfirmacao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:03:11.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Postagem\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Postagem\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Postagem\\Editar.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Postagem\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:51:48.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240520214331_NomeDaNovaMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Migrations\\20240520214331_NomeDaNovaMigration.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Migrations\\20240520214331_NomeDaNovaMigration.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Migrations\\20240520214331_NomeDaNovaMigration.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Migrations\\20240520214331_NomeDaNovaMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:43:31.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Postagem\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Postagem\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Postagem\\Cadastrar.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Postagem\\Cadastrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T21:03:24.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Postagem\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Postagem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Postagem\\Index.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Postagem\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T20:45:20.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostagemController.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Controllers\\PostagemController.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Controllers\\PostagemController.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Controllers\\PostagemController.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Controllers\\PostagemController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:44:18.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChallengerAgroCare.csproj",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\ChallengerAgroCare.csproj",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\ChallengerAgroCare.csproj",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\ChallengerAgroCare.csproj",
+              "RelativeToolTip": "ChallengerAgroCare\\ChallengerAgroCare.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T23:04:36.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.140\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.140\\readme.txt",
+              "ToolTip": "C:\\Users\\Haytekinfo\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.140\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\oracle.entityframeworkcore\\8.21.140\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-19T23:01:56.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240519225624_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Migrations\\20240519225624_Initial.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Migrations\\20240519225624_Initial.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Migrations\\20240519225624_Initial.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Migrations\\20240519225624_Initial.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:56:25.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:55:32.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\appsettings.json",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\appsettings.json",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\appsettings.json",
+              "RelativeToolTip": "ChallengerAgroCare\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T22:51:23.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Models\\Comentario.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Models\\Comentario.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Models\\Comentario.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Models\\Comentario.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:47:08.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Postagem.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Models\\Postagem.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Models\\Postagem.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Models\\Postagem.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Models\\Postagem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:45:57.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Data\\DataContext.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:42:21.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Models\\User.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Models\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:33:58.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\DeleteConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\User\\DeleteConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\DeleteConfirmacao.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\User\\DeleteConfirmacao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T22:17:51.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Program.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Program.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Program.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:08:03.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-19T22:00:49.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\User\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\Cadastrar.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\User\\Cadastrar.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T20:58:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\User\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\Editar.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\User\\Editar.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAqwFAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T20:58:29.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T20:58:06.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T20:21:22.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:19:42.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T20:15:04.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T20:13:47.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChallengerAgroCare\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:13:31.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChallengerAgroCare\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Haytekinfo\\source\\repos\\ChallengerAgroCare\\ChallengerAgroCare\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChallengerAgroCare\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T20:12:00.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

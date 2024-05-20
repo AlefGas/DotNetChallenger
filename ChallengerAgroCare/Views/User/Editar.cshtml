@@ -1,0 +1,117 @@
+﻿@model User
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+    
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <style>
+        body {
+            background: linear-gradient(to right, #f8f9fa, #e9ecef);
+            font-family: 'Roboto', sans-serif;
+            color: #495057;
+        }
+
+        .form-container {
+            margin-top: 80px;
+        }
+
+            .form-container h1 {
+                text-align: center;
+                font-size: 3rem;
+                margin-bottom: 20px;
+                font-weight: 700;
+            }
+
+            .form-container form {
+                margin: 0 auto;
+                max-width: 400px; /* Ajuste a largura do formulário conforme necessário */
+            }
+
+                .form-container form .form-group {
+                    margin-bottom: 20px;
+                }
+
+                    .form-container form .form-group label {
+                        font-weight: 600;
+                    }
+
+                    .form-container form .form-group input[type="text"],
+                    .form-container form .form-group input[type="submit"] {
+                        width: 100%;
+                        padding: 12px;
+                        font-size: 1rem;
+                        border-radius: 5px;
+                        border: 1px solid #ced4da;
+                        transition: border-color 0.3s ease;
+                    }
+
+                        .form-container form .form-group input[type="text"]:focus {
+                            border-color: #007bff;
+                        }
+
+                    .form-container form .form-group input[type="submit"] {
+                        background-color: #007bff;
+                        color: white;
+                        cursor: pointer;
+                        transition: background-color 0.3s ease;
+                    }
+
+                        .form-container form .form-group input[type="submit"]:hover {
+                            background-color: #0056b3;
+                        }
+    </style>
+
+    <div class="register-page" style="background-color:white">
+
+        <div class="register-box">
+            <div class="card">
+                <div class="card-body register-card-body" style="background-color:white">
+                    <p class="login-box-msg">Edit a  membership</p>
+
+                    <form asp-action="Editar" >
+                        <input type="hidden" asp-for="Id" />
+                        <input type="hidden" asp-for="Password" />
+                        <input type="hidden" asp-for="UserEmail" />
+                        <div class="input-group mb-3">
+                            <input name="Name" asp-for="Name" type="text" class="form-control" placeholder="Full name">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <span class="fas fa-user"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="input-group mb-3">
+                            <input name="Avatar" asp-for="Avatar" type="text" class="form-control" placeholder="Avatar">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <span class="fas fa-user"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <button type="submit" class="btn btn-primary btn-block">Edit</button>
+                            </div>
+                            <!-- /.col -->
+                        </div>
+                    </form>
+
+                    <a asp-controller="User" asp-action="LoginPage" class="text-center">I already have a membership</a>
+                </div>
+                <!-- /.form-box -->
+            </div><!-- /.card -->
+        </div>
+        <!-- /.register-box -->
+    </div>
+    
+</body>
+</html>

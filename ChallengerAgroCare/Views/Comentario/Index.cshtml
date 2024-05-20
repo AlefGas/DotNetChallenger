@@ -1,0 +1,55 @@
+﻿@model IEnumerable<ChallengerAgroCare.Models.Comentario>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciar Comentários</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Comentários</h1>
+        <table class="table table-hover table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Texto</th>
+                    <th scope="col">Usuário</th>
+                    <th scope="col">Postagem</th>
+                    <th scope="col">Likes</th>
+                    <th scope="col">Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var comentario in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => comentario.TxtComment)</td>
+                        <td>@Html.DisplayFor(modelItem => comentario.UseId)</td>
+                        <td>@Html.DisplayFor(modelItem => comentario.PostId)</td>
+                        <td>@Html.DisplayFor(modelItem => comentario.Like)</td>
+                        <td>
+                            <a role="button" class="btn btn-warning btn-sm m-1" asp-route-id="@comentario.Id" asp-controller="Comentario" asp-action="Editar">
+                                <i class="fas fa-edit"></i> Editar
+                            </a>
+                            <a role="button" class="btn btn-danger btn-sm m-1" asp-route-id="@comentario.Id" asp-controller="Comentario" asp-action="Delete">
+                                <i class="fas fa-trash-alt"></i> Apagar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+            <a class="btn btn-primary" asp-controller="Comentario" asp-action="Cadastrar">
+                <i class="fas fa-plus-circle"></i> Adicionar novo comentário
+            </a>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
